@@ -1,6 +1,6 @@
 //
-//  crazy_circlesView.m
-//  crazy circles
+//  random_circlesView.m
+//  random-circles
 //
 //  Created by A. J. Soria R. 27/09/2015.
 //  Copyright © 2015 ajsoriar. All rights reserved.

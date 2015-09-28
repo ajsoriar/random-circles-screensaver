@@ -13,9 +13,9 @@
 
 /* Begin PBXFileReference section */
 		061DBDBE1BB7DE86006C6544 /* Random Circles.saver */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Random Circles.saver"; sourceTree = BUILT_PRODUCTS_DIR; };
-		061DBDC11BB7DE86006C6544 /* random_circlesView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = random_circlesView.h; path = "random-circles/random_circlesView.h"; sourceTree = "<group>"; };
-		061DBDC31BB7DE86006C6544 /* random_circlesView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = random_circlesView.m; path = "random-circles/random_circlesView.m"; sourceTree = "<group>"; };
-		061DBDC51BB7DE86006C6544 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; name = Info.plist; path = "random-circles/Info.plist"; sourceTree = "<group>"; };
+		061DBDC11BB7DE86006C6544 /* random_circlesView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = random_circlesView.h; sourceTree = "<group>"; };
+		061DBDC31BB7DE86006C6544 /* random_circlesView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = random_circlesView.m; sourceTree = "<group>"; };
+		061DBDC51BB7DE86006C6544 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,8 +52,7 @@
 				061DBDC31BB7DE86006C6544 /* random_circlesView.m */,
 				061DBDC51BB7DE86006C6544 /* Info.plist */,
 			);
-			name = "random-circles";
-			path = "crazy circles";
+			path = "random-circles";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -84,7 +83,7 @@
 			dependencies = (
 			);
 			name = "Random Circles";
-			productName = "crazy circles";
+			productName = "random-circles";
 			productReference = 061DBDBE1BB7DE86006C6544 /* Random Circles.saver */;
 			productType = "com.apple.product-type.bundle";
 		};
@@ -94,7 +93,7 @@
 		061DBDB51BB7DE86006C6544 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0700;
+				LastUpgradeCheck = 0730;
 				ORGANIZATIONNAME = ajsoriar;
 				TargetAttributes = {
 					061DBDBD1BB7DE86006C6544 = {
@@ -222,11 +221,10 @@
 		061DBDC91BB7DE86006C6544 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
 				COMBINE_HIDPI_IMAGES = YES;
-				INFOPLIST_FILE = "crazy circles/Info.plist";
+				INFOPLIST_FILE = "random-circles/Info.plist";
 				INSTALL_PATH = "$(HOME)/Library/Screen Savers";
-				PRODUCT_BUNDLE_IDENTIFIER = "ajsoriar.crazy-circles";
+				PRODUCT_BUNDLE_IDENTIFIER = "ajsoriar.random-circles";
 				PRODUCT_NAME = "Random Circles";
 				WRAPPER_EXTENSION = saver;
 			};
@@ -235,11 +233,10 @@
 		061DBDCA1BB7DE86006C6544 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
 				COMBINE_HIDPI_IMAGES = YES;
-				INFOPLIST_FILE = "crazy circles/Info.plist";
+				INFOPLIST_FILE = "random-circles/Info.plist";
 				INSTALL_PATH = "$(HOME)/Library/Screen Savers";
-				PRODUCT_BUNDLE_IDENTIFIER = "ajsoriar.crazy-circles";
+				PRODUCT_BUNDLE_IDENTIFIER = "ajsoriar.random-circles";
 				PRODUCT_NAME = "Random Circles";
 				WRAPPER_EXTENSION = saver;
 			};
