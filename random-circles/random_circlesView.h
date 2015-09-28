@@ -8,6 +8,6 @@
 
 #import <ScreenSaver/ScreenSaver.h>
 
-@interface crazy_circlesView : ScreenSaverView
+@interface random_circlesView : ScreenSaverView
 
 @end

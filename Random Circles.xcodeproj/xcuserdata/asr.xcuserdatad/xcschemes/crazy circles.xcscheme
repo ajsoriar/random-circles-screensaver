@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "061DBDBD1BB7DE86006C6544"
-               BuildableName = "crazy circles.saver"
-               BlueprintName = "crazy circles"
-               ReferencedContainer = "container:crazy circles.xcodeproj">
+               BuildableName = "Random Circles.saver"
+               BlueprintName = "Random Circles"
+               ReferencedContainer = "container:Random Circles.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,9 +46,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "061DBDBD1BB7DE86006C6544"
-            BuildableName = "crazy circles.saver"
-            BlueprintName = "crazy circles"
-            ReferencedContainer = "container:crazy circles.xcodeproj">
+            BuildableName = "Random Circles.saver"
+            BlueprintName = "Random Circles"
+            ReferencedContainer = "container:Random Circles.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -64,9 +64,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "061DBDBD1BB7DE86006C6544"
-            BuildableName = "crazy circles.saver"
-            BlueprintName = "crazy circles"
-            ReferencedContainer = "container:crazy circles.xcodeproj">
+            BuildableName = "Random Circles.saver"
+            BlueprintName = "Random Circles"
+            ReferencedContainer = "container:Random Circles.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>
