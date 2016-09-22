@@ -12,7 +12,7 @@ Screensaver for Macintosh OS that displays circles.
 
 Open the Mac OSX preferences, choose Screensaver, right click on `Random Circles` and choose delete.
 
-#### 4 License
+## 4 License
 
 MIT
 
@@ -35,5 +35,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-**Free Software, Yeah!**
