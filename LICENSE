@@ -1,20 +1,4 @@
-# random-circles-screensaver
-Screensaver for Macintosh OS that displays circles.
-
-![Random Circles Mac OS screensaver example](./assets/random-circles-example.jpg?raw=true "Random Circles Mac OS screensaver example")
-
-## Install (Mac OSX only)
-
-* Fork or clone this project, then double click the file `Random Circles.saver` in the project folder.
-* Open the Mac OSX preferences, choose Screensaver and activate `Random Circles`
-
-## Uninstall
-
-Open the Mac OSX preferences, choose Screensaver, right click on `Random Circles` and choose delete.
-
-#### 4 License
-
-MIT
+The MIT License (MIT)
 
 Copyright (c) 2016 
 
@@ -35,5 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-**Free Software, Yeah!**
